@@ -1,3 +1,6 @@
 /exercicios-js/.gitignore
 /exercicios-js/node_modules
 /exercicios-js/package-lock.json
+exercicios-js/node/Projeto/package-lock.json
+exercicios-js/node/Projeto/node_modules
+.gitignore
